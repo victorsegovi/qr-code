@@ -35,14 +35,14 @@ body{
     height: 290px;
     border-radius: 15px;
 }
-.h2{
+.h1{
     width: 290px;
     height: 60px;
     margin-top:20px ;
     text-align: center;
     border-radius: 15px;
     font-family: 'Outfit', sans-serif;
-    font-size: 22px;
+    font-size: 12px;
     font-weight: bolder;
     color: hsl(218, 44%, 22%);
 }
